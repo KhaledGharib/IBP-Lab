@@ -42,6 +42,3 @@ To run this project locally, you need the following:
 - **Connection failed**: If you encounter connection errors, ensure that the database connection details in `register.php` are accurate and that your MySQL server is running.
 - **No students found in the database**: If you don't see any students in the list, make sure that you have registered at least one student or check the database connectivity.
 
-## Contributing
-
-Contributions to this project are welcome. If you have any suggestions, improvements, or bug fixes, please submit a pull request.
